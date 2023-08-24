@@ -59,39 +59,3 @@ react-bootstrap-learning/
 ├── package.json
 ├── README.md
 └── ...
-Usage
-In this repository, you'll find a collection of React components that demonstrate the integration of Bootstrap concepts. Each component is located in the src/components directory and can be studied individually. You can use these components as inspiration and reference for your own projects.
-
-Examples
-Check out some of the examples available in this repository:
-
-Button Component: Demonstrates how to create responsive buttons using Bootstrap classes.
-
-Navbar Component: Shows how to build a navigation bar with responsive behavior.
-
-Feel free to explore and modify these examples to deepen your understanding of React and Bootstrap.
-
-Contributing
-Contributions to this repository are welcome and encouraged! If you have improvements, bug fixes, or additional examples to share, please follow these steps:
-
-Fork the repository.
-
-Create a new branch for your changes:
-
-bash
-Copy code
-git checkout -b feature/your-feature-name
-Make your modifications and commit changes:
-
-sql
-Copy code
-git commit -m "Add your commit message here"
-Push your changes to your forked repository:
-
-bash
-Copy code
-git push origin feature/your-feature-name
-Open a pull request, describing the changes you've made.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
